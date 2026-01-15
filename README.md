@@ -113,7 +113,11 @@ Stored attributes:
 
 For delivery orders, the system must store:
 - The delivery employee  
-- The delivery date/time  
+- The delivery date/time
+
+  
+
+--------------
 
 
 
@@ -126,7 +130,7 @@ For delivery orders, the system must store:
 - Self‑referencing relationships (client referrals in the optics system)  
 - Normalized structure ensuring data consistency  
 
----
+
 
 🛠 Technologies
 
