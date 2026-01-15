@@ -1,11 +1,6 @@
-Task 1
-Perfecte, Adrià.  
-Aquí tens **la plantilla completament adaptada als teus exercicis (Òptica i Pizzeria)**, en **anglès**, amb **estructura professional**, i **explicacions en català** tal com prefereixes.
-
----
-
+******************************************************
 Task 1 – Database Modeling Project (Optics & Pizzeria)
-
+******************************************************
 Description
 
 Learning project focused on designing relational database models for two real‑world business scenarios: an optical store and a food‑delivery pizzeria.  
